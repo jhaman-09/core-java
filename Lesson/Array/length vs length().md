@@ -1,5 +1,5 @@
-# 🚀 ***Length vs Length()*** 🔥
-## 📌 **Length in Arrays**
+# 🚀 **Length vs Length()** 🔥
+## 📌 ***Length in Arrays***
 
 ```java
 int[] x = new int[6];
@@ -15,7 +15,7 @@ System.out.println(x.length); ✅✅ // 🎯 Correct usage
 - Length is a final variable applicable for arrays.
 - The length variable represents the size of the array.
 
-## 📌 **Length() Method**
+## 📌 ***Length() Method***
 
 ```java
 String s = "Aman";
